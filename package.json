@@ -5,6 +5,6 @@
     "web-vitals": "^4.2.4",
     "react-scripts": "5.0.1"
   },  "scripts": {
-    "start": "npx http-server -o"
+    "start": "npx http-server ./src -o"
   }
 }
